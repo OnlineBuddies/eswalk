@@ -1,6 +1,6 @@
 {
   "name": "eswalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Walk an Esprima parse tree",
   "main": "eswalk.js",
   "repository": {
