@@ -1,0 +1,19 @@
+{
+  "name": "eswalk",
+  "version": "1.0.0",
+  "description": "Walk an Esprima parse tree",
+  "main": "eswalk.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OnlineBuddies/eswalk.git"
+  },
+  "keywords": [
+    "esprima"
+  ],
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/OnlineBuddies/eswalk/issues"
+  },
+  "homepage": "https://github.com/OnlineBuddies/eswalk"
+}
